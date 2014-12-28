@@ -1,0 +1,1 @@
+gawk -F: '{ print $2 }' passwd.txt
